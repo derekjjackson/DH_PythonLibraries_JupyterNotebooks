@@ -1,7 +1,7 @@
 # DH_PythonLibraries_JupyterNotebooks
 Files and resources for using Data Science, Python, and Jupyter Notebooks in the practice of Digital Humanities
 
-To use the notebooks in a browser, copy and paste the URL for each notebook into [nbviewer](https://nbviewer.jupyter.org/). 
+To use the notebooks in a browser go to [mybinder.org](https://hub.mybinder.org/user/derekjjackson-d-upyternotebooks-yi90p29d/tree). 
 
 ## Notebooks
 
@@ -10,7 +10,7 @@ To use the notebooks in a browser, copy and paste the URL for each notebook into
 ## Jupyter Notebooks
 
 * [Intro to Jupyter Notebook file on github](https://github.com/derekjjackson/DH_PythonLibraries_JupyterNotebooks/blob/master/Intro%20to%20Jupyter%20Notebooks.ipynb)
-* [Intro to Jupyter Notebook online](https://nbviewer.jupyter.org/github/derekjjackson/DH_PythonLibraries_JupyterNotebooks/blob/master/Intro%20to%20Jupyter%20Notebooks.ipynb)
+* [Intro to Jupyter Notebook online](https://hub.mybinder.org/user/derekjjackson-d-upyternotebooks-yi90p29d/notebooks/Intro%20to%20Jupyter%20Notebooks.ipynb)
 
 ## Python
 
