@@ -4,7 +4,7 @@ FIles and resources for using Data Science, Python, and Jupyter Notebooks in the
 ## Notebooks
 
 ## Resources
-
+* [Markup Cheetsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 ## Jupyter Notebooks
 
 ## Python
