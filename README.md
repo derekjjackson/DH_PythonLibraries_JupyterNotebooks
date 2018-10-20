@@ -4,9 +4,9 @@ Files and resources for using Data Science, Python, and Jupyter Notebooks in the
 To use the notebooks in a browser go to [![MyBinder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/derekjjackson/DH_PythonLibraries_JupyterNotebooks.git/master)
 
 
-## Notebooks
-* [Intro to Jupyter Notebook file on github](https://github.com/derekjjackson/DH_PythonLibraries_JupyterNotebooks/blob/master/Intro%20to%20Jupyter%20Notebooks.ipynb)
-* [Brief Overview of Python file on github](https://github.com/derekjjackson/DH_PythonLibraries_JupyterNotebooks/blob/master/Brief_Overview_of_Python.ipynb)
+## Notebooks on github
+* [Intro to Jupyter Notebook.ipynb](https://github.com/derekjjackson/DH_PythonLibraries_JupyterNotebooks/blob/master/Intro%20to%20Jupyter%20Notebooks.ipynb)
+* [Brief_Overview_of_Python.ipynb](https://github.com/derekjjackson/DH_PythonLibraries_JupyterNotebooks/blob/master/Brief_Overview_of_Python.ipynb)
 ## Resources
 * [Markup Cheetsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 * [Download Anaconds to get Jupyter Notebook](https://www.anaconda.com/download/)
