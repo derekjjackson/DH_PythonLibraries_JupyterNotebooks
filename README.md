@@ -1,5 +1,7 @@
 # DH_PythonLibraries_JupyterNotebooks
-FIles and resources for using Data Science, Python, and Jupyter Notebooks in the practice of Digital Humanities
+Files and resources for using Data Science, Python, and Jupyter Notebooks in the practice of Digital Humanities
+
+To use the notebooks in a browser, copy and paste the URL for each notebook into [nbviewer](https://nbviewer.jupyter.org/). 
 
 ## Notebooks
 
