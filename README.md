@@ -15,7 +15,10 @@ To use the notebooks in a browser go to [mybinder.org](https://hub.mybinder.org/
 * [Intro to Jupyter Notebook online](https://hub.mybinder.org/user/derekjjackson-d-upyternotebooks-yi90p29d/notebooks/Intro%20to%20Jupyter%20Notebooks.ipynb)
 
 ## Python
-
+* [Brief Overview of Python file on github](https://github.com/derekjjackson/DH_PythonLibraries_JupyterNotebooks/blob/master/Brief_Overview_of_Python.ipynb)
+* [Brief Overview of Python on Colab](https://colab.research.google.com/drive/17jhYh0D70mCiNc8p5bybOsiESSMO4DQN)<br/>
+note: you will need to copy this to your own google account in order to run the notebook 
+* [Brief Overview of Python on Colab]
 ## Python Libraries
 
 ## Dive in
