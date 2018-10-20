@@ -24,5 +24,16 @@ note: you will need to copy this to your own google account in order to run the 
 * [Brief Overview of Python on Colab]
 ## Python Libraries
 
+* NLTK
+* Pandas
+* Numpy
+* Scikit Learn
+* Wordcloud
+* Mathplotlib
+* Gensim (Word2Vec)
+* Tensorflow
+
+## Machine Learning and NLP
+
 ## Dive in
 
