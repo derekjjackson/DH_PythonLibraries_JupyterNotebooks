@@ -24,6 +24,7 @@ To use the notebooks in a browser go to [![MyBinder](https://mybinder.org/badge.
 * [Intro to Jupyter Notebook file on github](https://github.com/derekjjackson/DH_PythonLibraries_JupyterNotebooks/blob/master/Intro%20to%20Jupyter%20Notebooks.ipynb)
 
 ## Python
+### Highlights
 * High Level programming language. 
 * General purpose
 * Named after Monty Python
@@ -31,7 +32,7 @@ To use the notebooks in a browser go to [![MyBinder](https://mybinder.org/badge.
 * Widely supported by a strong user community
 * Around since 1990
 
-
+### Dive in
 * [Brief Overview of Python file on github](https://github.com/derekjjackson/DH_PythonLibraries_JupyterNotebooks/blob/master/Brief_Overview_of_Python.ipynb)
 * [Brief Overview of Python on Colab](https://colab.research.google.com/drive/17jhYh0D70mCiNc8p5bybOsiESSMO4DQN)
 note: you will need to copy this to your own google account in order to run the notebook 
