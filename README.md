@@ -15,16 +15,28 @@ To use the notebooks in a browser go to [![MyBinder](https://mybinder.org/badge.
 * [Download Anaconds to get Jupyter Notebook](https://www.anaconda.com/download/)
 * [PyCharm Python Integrated Development Environment](https://www.jetbrains.com/pycharm-edu/download)
 * [CoLab Google's online iPython notebook](https://colab.research.google.com/notebooks/welcome.ipynb)
+* [Python Software Foundation](https://www.python.org/) Everything Python
+* [World Wide Web Consortium (W3C) Python Tutorial](https://www.w3schools.com/python/)
+* [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 
 ## Jupyter Notebooks
 
 * [Intro to Jupyter Notebook file on github](https://github.com/derekjjackson/DH_PythonLibraries_JupyterNotebooks/blob/master/Intro%20to%20Jupyter%20Notebooks.ipynb)
 
 ## Python
+* High Level programming language. 
+* General purpose
+* Named after Monty Python
+* Written in English and relatively easy to read
+* Widely supported by a strong user community
+* Around since 1990
+
 
 * [Brief Overview of Python file on github](https://github.com/derekjjackson/DH_PythonLibraries_JupyterNotebooks/blob/master/Brief_Overview_of_Python.ipynb)
 * [Brief Overview of Python on Colab](https://colab.research.google.com/drive/17jhYh0D70mCiNc8p5bybOsiESSMO4DQN)
 note: you will need to copy this to your own google account in order to run the notebook 
+* [Python Software Foundation](https://www.python.org/) Everything Python
+* [World Wide Web Consortium (W3C) Python Tutorial](https://www.w3schools.com/python/)
 * [PyCharm Python Integrated Development Environment](https://www.jetbrains.com/pycharm-edu/download)
 
 ## Python Libraries
@@ -41,6 +53,7 @@ note: you will need to copy this to your own google account in order to run the 
 * Tensorflow
 
 ## Machine Learning and NLP
+* [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 
 ## Dive in
 
