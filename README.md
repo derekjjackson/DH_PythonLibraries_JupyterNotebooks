@@ -3,12 +3,13 @@ Files and resources for using Data Science, Python, and Jupyter Notebooks in the
 
 To use the notebooks in a browser go to [![MyBinder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/derekjjackson/DH_PythonLibraries_JupyterNotebooks.git/master)
 
-[PyCharm Python Integrated Development Environment](https://www.jetbrains.com/pycharm-edu/download)
+
 ## Notebooks
 
 ## Resources
 * [Markup Cheetsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 * [Download Anaconds to get Jupyter Notebook](https://www.anaconda.com/download/)
+* [PyCharm Python Integrated Development Environment](https://www.jetbrains.com/pycharm-edu/download)
 * [CoLab Google's online iPython notebook](https://colab.research.google.com/notebooks/welcome.ipynb)
 ## Jupyter Notebooks
 
