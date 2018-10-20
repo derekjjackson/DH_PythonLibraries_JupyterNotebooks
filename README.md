@@ -8,6 +8,7 @@ To use the notebooks in a browser go to [mybinder.org](https://hub.mybinder.org/
 ## Resources
 * [Markup Cheetsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 * [Download Anaconds to get Jupyter Notebook](https://www.anaconda.com/download/)
+* [CoLab Google's online iPython notebook](https://colab.research.google.com/notebooks/welcome.ipynb)
 ## Jupyter Notebooks
 
 * [Intro to Jupyter Notebook file on github](https://github.com/derekjjackson/DH_PythonLibraries_JupyterNotebooks/blob/master/Intro%20to%20Jupyter%20Notebooks.ipynb)
