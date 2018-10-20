@@ -33,6 +33,8 @@ note: you will need to copy this to your own google account in order to run the 
 * Pandas
 * Numpy
 * Scikit Learn
+* Beutiful Soup
+* urllib
 * Wordcloud
 * Mathplotlib
 * Gensim (Word2Vec)
