@@ -6,8 +6,10 @@ To use the notebooks in a browser go to [![MyBinder](https://mybinder.org/badge.
 
 ## Notebooks on github
 
-* [Intro to Jupyter Notebook.ipynb](https://github.com/derekjjackson/DH_PythonLibraries_JupyterNotebooks/blob/master/Intro%20to%20Jupyter%20Notebooks.ipynb)
-* [Brief_Overview_of_Python.ipynb](https://github.com/derekjjackson/DH_PythonLibraries_JupyterNotebooks/blob/master/Brief_Overview_of_Python.ipynb)
+* [Intro to Jupyter Notebook](https://github.com/derekjjackson/DH_PythonLibraries_JupyterNotebooks/blob/master/Intro%20to%20Jupyter%20Notebooks.ipynb)
+* [Brief_Overview_of_Python](https://github.com/derekjjackson/DH_PythonLibraries_JupyterNotebooks/blob/master/Brief_Overview_of_Python.ipynb)
+* [NLTK Overview](https://github.com/derekjjackson/DH_PythonLibraries_JupyterNotebooks/blob/master/NLTK_Overview.ipynb)
+* [NLTK Book, Chapter 1 Exercises](https://github.com/derekjjackson/DH_PythonLibraries_JupyterNotebooks/blob/master/NLTK_Book_Chapter_1_exercises.ipynb)
 
 ## Resources
 
@@ -51,7 +53,9 @@ note: you will need to copy this to your own google account in order to run the 
   - [NLTK Documentation](https://www.nltk.org/#)<br/>
   - [Natural Language Processing with Python (The NLTK book)](https://www.nltk.org/book/)<br/>
   - [NLTK Overview notebook](https://github.com/derekjjackson/DH_PythonLibraries_JupyterNotebooks/blob/master/NLTK_Overview.ipynb)<br/>
+  - [NLTK Book, Chapter 1 Exercises](https://github.com/derekjjackson/DH_PythonLibraries_JupyterNotebooks/blob/master/NLTK_Book_Chapter_1_exercises.ipynb)
 * Pandas
+  - [Pandas: Python Data Analysis Library](http://pandas.pydata.org/)
 * Numpy
 * Scikit Learn
 * Beutiful Soup
