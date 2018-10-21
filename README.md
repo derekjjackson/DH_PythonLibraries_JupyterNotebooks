@@ -13,7 +13,7 @@ To use the notebooks in a browser go to [![MyBinder](https://mybinder.org/badge.
 
 ## Resources
 
-* [Markup Cheetsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+* [Markdown Cheetsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 * [Get Python](https://www.python.org/downloads/)
 * [Download Anaconds to get Jupyter Notebook](https://www.anaconda.com/download/)
 * [PyCharm Python Integrated Development Environment](https://www.jetbrains.com/pycharm-edu/download)
