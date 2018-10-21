@@ -12,6 +12,7 @@ To use the notebooks in a browser go to [![MyBinder](https://mybinder.org/badge.
 ## Resources
 
 * [Markup Cheetsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+* [Get Python](https://www.python.org/downloads/)
 * [Download Anaconds to get Jupyter Notebook](https://www.anaconda.com/download/)
 * [PyCharm Python Integrated Development Environment](https://www.jetbrains.com/pycharm-edu/download)
 * [CoLab Google's online iPython notebook](https://colab.research.google.com/notebooks/welcome.ipynb)
@@ -23,9 +24,11 @@ To use the notebooks in a browser go to [![MyBinder](https://mybinder.org/badge.
 
 ## Jupyter Notebooks
 
+* [Download Anaconds to get Jupyter Notebook](https://www.anaconda.com/download/)
 * [Intro to Jupyter Notebook file on github](https://github.com/derekjjackson/DH_PythonLibraries_JupyterNotebooks/blob/master/Intro%20to%20Jupyter%20Notebooks.ipynb)
 
 ## Python
+[Get Python](https://www.python.org/downloads/)
 ### Highlights
 * High Level programming language. 
 * General purpose
