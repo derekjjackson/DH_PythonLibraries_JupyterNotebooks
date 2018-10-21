@@ -50,6 +50,7 @@ note: you will need to copy this to your own google account in order to run the 
 * NLTK
   -[NLTK Documentation](https://www.nltk.org/#)
   -[Natural Language Processing with Python (The NLTK book)](https://www.nltk.org/book/)
+  -[NLTK Overview notebook](https://github.com/derekjjackson/DH_PythonLibraries_JupyterNotebooks/blob/master/NLTK_Overview.ipynb)
 * Pandas
 * Numpy
 * Scikit Learn
