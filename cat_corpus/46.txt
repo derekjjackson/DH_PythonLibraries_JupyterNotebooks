@@ -1,0 +1,29 @@
+Nutrition Nuggets is the newest offshoot of petMD's Cat Nutrition Center. Each week Dr. Coates will use her expertise and wisdom to blog about the intricacies of cat nutrition.
+The Usefulness of Lysine Supplements for Cats Under Scrutiny
+February 05, 2016
+Herpesvirus infections in cats (also called feline viral rhinotracheitis) can be a big problem. Most cats are exposed to the virus at some point in their lives. Usually, the illness that results looks a lot like the human cold. Infected cats sneeze, have a runny nose and eyes, and feel poorly for a few days to a week or so, but then they recover uneventfully.
+ 
+But herpesvirus is sneaky. Once a cat is infected, the body can never completely eradicate it. The virus is always there, waiting for a chance to cause problems.
+ 
+Some cats have intermittent flare-ups of eye, upper respiratory, and/or skin problems. These may be associated with times of stress, or they may seem to occur completely at random. In the worst cases, individuals suffer from unrelenting symptoms that have a significant impact on their quality of life.
+ 
+It's not too surprising then that owners (and veterinarians) are looking for something—anything—to help cats with chronic herpesvirus infections. Supplementing a cat's diet with the amino acid lysine has been popular for a long time now. I've recommended it myself, even though I had never seen definitive scientific proof that it is helpful.
+ 
+Turns out there's a good reason why I have never run across that evidence. It doesn't exist.
+ 
+In a recent study, two scientists searched the literature for "published work on lysine and feline herpesvirus 1, as well as lysine and human herpesvirus 1." They included 17 studies in their review and found the following:
+ 
+There is evidence at multiple levels that lysine supplementation is not effective for the prevention or treatment of feline herpesvirus 1 infection in cats. Lysine does not have any antiviral properties, but is believed to act by lowering arginine levels. However, lysine does not antagonize arginine in cats, and evidence that low intracellular arginine concentrations would inhibit viral replication is lacking.
+ 
+Furthermore, lowering arginine levels is highly undesirable since cats cannot synthesize this amino acid themselves. Arginine deficiency will result in hyperammonemia, which may be fatal. In vitro studies with feline herpesvirus 1 showed that lysine has no effect on the replication kinetics of the virus.
+ 
+Finally, and most importantly, several clinical studies with cats have shown that lysine is not effective for the prevention or the treatment of feline herpesvirus 1 infection, and some even reported increased infection frequency and disease severity in cats receiving lysine supplementation.
+ 
+What is your experience with lysine and feline herpesvirus infections? Have you used it? Did it seem to help?
+ 
+It will be hard for me to continue to endorse the use of lysine in the face of this recent article. I guess I'll now have to lean more heavily on my other recommendations:
+Practice aggressive preventative medicine and treat any health conditions that do develop quickly to avoid "distracting" the immune system
+Treat especially severe flare ups with antiviral medications and secondary bacterial infections with antibiotics
+Reduce exposure to whatever is stressful for the infected cat
+And most importantly, provide excellent overall nutrition to support the immune system
+ 

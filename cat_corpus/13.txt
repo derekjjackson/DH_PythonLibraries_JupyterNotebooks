@@ -1,0 +1,42 @@
+9 External links
+The virus and pathogenesis of FIP[ edit ]
+FCoV is a virus of the gastrointestinal tract: most infections are either asymptomatic, or cause diarrhea, especially in kittens, as maternally derived antibody wanes at between 5 and 7 weeks of age. The virus is often referred to as feline enteric coronavirus (FECV). From the gut, the virus very briefly undergoes a systemic phase, [2] returning to the gut, from where it is shed in the feces. The pathogenesis of FIP is complicated: the reductionist view is that it is entirely due to mutation of the virus, enabling it to enter, or replicate more successfully in, monocytes. [3] The holistic approach is that FIP occurs as a result of a number of factors, including viral virulence (some strains are undoubtedly more virulent than others), and the immune status and general health of the host.
+Virus transmission[ edit ]
+FCoV is common in places where large groups of cats are housed together indoors (e.g. breeding catteries , animal shelters , etc.). The virus is shed in feces and cats become infected by ingesting or inhaling the virus, usually by sharing cat litter trays, or by the use of contaminated litter scoops or brushes transmitting infected microscopic cat litter particles to uninfected kittens and cats. [4] Direct, cat-to-cat, virus transmission does not commonly occur.
+Clinical signs[ edit ]
+FIP effusive fluid
+There are two main forms of FIP: effusive (wet) and non-effusive (dry). While both types are fatal, the effusive form is more common (60–70% of all cases are wet) and progresses more rapidly than the non-effusive form.
+Effusive (wet) FIP[ edit ]
+The hallmark clinical sign of effusive FIP is the accumulation of fluid within the abdomen or chest, which can cause breathing difficulties. Other symptoms include lack of appetite, fever, weight loss, jaundice , and diarrhea.
+Non-effusive (dry) FIP[ edit ]
+Dry FIP will also present with lack of appetite, fever, jaundice, diarrhea, and weight loss, but there will not be an accumulation of fluid. Typically a cat with dry FIP will show ocular or neurological signs. For example, the cat may develop difficulty in standing up or walking, becoming functionally paralyzed over time. Loss of vision is another possible outcome of the disease.
+Cytology of FIP-induced fluid showing neutrophils , macrophages and lymphocytes
+Diagnosing effusive FIP[ edit ]
+Diagnosis of effusive FIP has become more straightforward in recent years: detection of viral RNA in a sample of the effusion, by reverse-transcriptase polymerase chain reaction (RT-PCR) is diagnostic of effusive FIP. [5] [6] [7] However, that does require that a sample be sent to an external veterinary laboratory.  Within the veterinary hospital there are a number of tests which can rule out a diagnosis of effusive FIP within minutes:
+Measure the total protein in the effusion: if it is less than 35g/l, FIP is extremely unlikely.
+Measure the albumin to globulin ratio in the effusion: if it is over 0.8, FIP is ruled out, if it is less than 0.4, FIP is a possible—but not certain—diagnosis [8]
+Examine the cells in the effusion: if they are predominantly lymphocytes then FIP is excluded as a diagnosis.
+Diagnosing non-effusive FIP[ edit ]
+Non-effusive FIP is more difficult to diagnose than effusive FIP because the clinical signs tend to be more vague and varied: the list of differential diagnoses is therefore much longer. Non-effusive FIP diagnosis should be considered when the following criteria are met: [9]
+History: the cat is young (under 2 years old) and purebred: over 70% of cases of FIP are in pedigree kittens.
+History: the cat experienced stress such as recent neutering or vaccination [10]
+History: the cat had an opportunity to become infected with FCoV, such as originating in a breeding or rescue cattery, or the recent introduction of a purebred kitten or cat into the household.
+Clinical signs: the cat has become anorexic or is eating less than usual; has lost weight or failed to gain weight; has pyrexia of unknown origin; intra-ocular signs; icterus. [11]
+Biochemistry: hypergammaglobulinaemia ; raised bilirubin without liver enzymes being raised.
+Hematology: lymphopenia; non-regenerative—usually mild—anaemia.
+Serology: the cat has a high antibody titre to FCoV: this parameter should be used with caution, because of the high prevalence of FCoV in breeding and rescue catteries.
+Non-effusive FIP can be ruled out as a diagnosis if the cat is seronegative , provided the antibody test has excellent sensitivity.  In a study which compared various commercially available in-house FCoV antibody tests, [12] the FCoV Immunocomb (Biogal) was 100% sensitive; the Speed F-Corona rapid immunochromatographic (RIM) test (Virbac) was 92.4% sensitive and the FASTest feline infectious peritonitis (MegaCor Diagnostik) RIM test was 84.6% sensitive.
+Treatment[ edit ]
+Eight-month-old kitten in end stage "dry" FIP, who had signs of anemia, lethargy, weight loss.  She exhibited eye changes (widening and paralysis of pupils) during seizures
+Because FIP is an immune-mediated disease, treatment falls into two categories: direct action against the virus itself and modulation of the immune response.
+Antiviral drugs[ edit ]
+The most commonly available antiviral drugs for treating FIP are either feline recombinant interferon omega (Virbagen Omega, Virbac) or human interferon.  Since the action of interferon is species-specific, feline interferon is more efficacious than human interferon.
+An experimental antiviral drug called GC 376 was used in a field trial of 20 cats: 7 cats went into remission, 13 cats responded initially but relapsed and were euthanized. [13] This drug is not yet commercially available: watch the University of California Davis website for progress updates.
+Modulation of the immune response[ edit ]
+The go-to immunosuppressive drug in FIP is prednisolone .
+An experimental polyprenyl immunostimulant (PI) is manufactured by Sass and Sass and tested by Dr. Al Legendre, who described survival over 1 year in three cats diagnosed with FIP and treated with the medicine. [14] In a subsequent field study of 60 cats with non-effusive FIP treated with PI, 52 cats (87%) died before 200 days, but eight cats survived over 200 days from the start of PI treatment for and four of those survived beyond 300 days. [15] There are anecdotal reports on the internet of cats surviving even longer. [16]
+Prevention of FIP[ edit ]
+Vaccination
+There is one intra-nasal FIP vaccine available: its use is controversial but in an independent study the authors concluded that vaccination can protect cats with no or low FCoV antibody titres and that in some cats vaccine failure was probably due to pre-existing infection. [17]
+Prevention of FCoV infection, and therefore FIP, in kittens
+Kittens are protected from infection by maternally derived antibody until it wanes, usually around 5–7 weeks of age, therefore it is possible to prevent infection of kittens by removing them from sources of infection. [18] However, FCoV is a very contagious virus and such prevention does require rigorous hygiene.
