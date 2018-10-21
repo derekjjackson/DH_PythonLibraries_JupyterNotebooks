@@ -19,7 +19,7 @@ To use the notebooks in a browser go to [![MyBinder](https://mybinder.org/badge.
 * [World Wide Web Consortium (W3C) Python Tutorial](https://www.w3schools.com/python/)
 * [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 * [NLTK Documentation](https://www.nltk.org/#)
-* [NLTK Book](https://www.nltk.org/book/)
+* [Natural Language Processing with Python (The NLTK book)](https://www.nltk.org/book/)
 
 ## Jupyter Notebooks
 
@@ -46,7 +46,7 @@ note: you will need to copy this to your own google account in order to run the 
 
 * NLTK
   -[NLTK Documentation](https://www.nltk.org/#)
-  -[NLTK Book](https://www.nltk.org/book/)
+  -[Natural Language Processing with Python (The NLTK book)](https://www.nltk.org/book/)
 * Pandas
 * Numpy
 * Scikit Learn
