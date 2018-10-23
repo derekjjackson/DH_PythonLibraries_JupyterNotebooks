@@ -6,3 +6,6 @@ scipy
 bs4
 seaborn
 sklearn
+wordcloud
+urllib
+urllib3
