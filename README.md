@@ -1,5 +1,6 @@
 # DH_PythonLibraries_JupyterNotebooks
 bitly link to this notebook: http://bit.ly/2yGHuot
+
 link to [slides](https://derekjjackson.github.io/DH_PythonLibraries_JupyterNotebooks/#slide=1)
 
 Files and resources for using Data Science, Python, and Jupyter Notebooks in the practice of Digital Humanities
