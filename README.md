@@ -1,6 +1,8 @@
 # DH_PythonLibraries_JupyterNotebooks
 bitly link to this notebook: http://bit.ly/2yGHuot
 
+link to [slides](https://derekjjackson.github.io/DH_PythonLibraries_JupyterNotebooks/#slide=1)
+
 Files and resources for using Data Science, Python, and Jupyter Notebooks in the practice of Digital Humanities
 
 To use the notebooks in a browser go to [![MyBinder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/derekjjackson/DH_PythonLibraries_JupyterNotebooks.git/master)
@@ -70,5 +72,4 @@ note: you will need to copy this to your own google account in order to run the 
 ## Machine Learning and NLP
 * [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 
-## Dive in
 
