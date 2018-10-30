@@ -72,5 +72,4 @@ note: you will need to copy this to your own google account in order to run the 
 ## Machine Learning and NLP
 * [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 
-## Dive in
 
