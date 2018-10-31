@@ -9,26 +9,30 @@ To use the notebooks in a browser go to [![MyBinder](https://mybinder.org/badge.
 
 ## Agenda
 1. Intro
-  * Ice breaking
-  * Expectations
-  * "Level Setting"
+  ** Ice breaking
+  ** Expectations
+  ** "Level Setting"
 2. The basics
-  * Jupyter Notebooks
-  * Python
-  * NLP/NLTK
-  * ***break***
+  ** Jupyter Notebooks
+  ** Python
+  ** NLP/NLTK
+
+***break***
   
   <hr/>
+  
 3. The NLTK Book
-  * Chapter 1 (book module)
-  * Chapter 2 (corpora module)
-  * Chapter 3 (raw text)
-  * ***break***
+  ** Chapter 1 (book module)
+  ** Chapter 2 (corpora module)
+  ** Chapter 3 (raw text)
+
+***break***
  
   <hr/>
   
 4. Machine Learning and Text
-  * ***break***
+
+***break***
   
   <hr/>
   
