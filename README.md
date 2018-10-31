@@ -7,13 +7,36 @@ Files and resources for using Data Science, Python, and Jupyter Notebooks in the
 
 To use the notebooks in a browser go to [![MyBinder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/derekjjackson/DH_PythonLibraries_JupyterNotebooks.git/master)
 
+## Agenda
+1. Intro
+  * Ice breaking
+  * Expectations
+  * "Level Setting"
+2. The basics
+  * Jupyter Notebooks
+  * Python
+  * NLP/NLTK
+{break}
+3. The NLTK Book
+  * Chapter 1 (book module)
+  * Chapter 2 (corpora module)
+  * Chapter 3 (raw text)
+{break}
+4. Machine Learning and Text
+{break}
+5. Dive in and Questions
 
 ## Notebooks on github
 
 * [Intro to Jupyter Notebook](https://github.com/derekjjackson/DH_PythonLibraries_JupyterNotebooks/blob/master/Intro%20to%20Jupyter%20Notebooks.ipynb)
 * [Brief_Overview_of_Python](https://github.com/derekjjackson/DH_PythonLibraries_JupyterNotebooks/blob/master/Brief_Overview_of_Python.ipynb)
 * [NLTK Overview](https://github.com/derekjjackson/DH_PythonLibraries_JupyterNotebooks/blob/master/NLTK_Overview.ipynb)
+
 * [NLTK Book, Chapter 1 Exercises](https://github.com/derekjjackson/DH_PythonLibraries_JupyterNotebooks/blob/master/NLTK_Book_Chapter_1_exercises.ipynb)
+* [NLTK Book, Chapter 2 Exercises](https://github.com/derekjjackson/DH_PythonLibraries_JupyterNotebooks/blob/master/NLTK_Book_Chapter_2_exercises.ipynb)
+* [NLTK Book, Chapter 3 Exercises](https://github.com/derekjjackson/DH_PythonLibraries_JupyterNotebooks/blob/master/NLTK_Book_Chapter_3_exercises.ipynb)
+
+## Resources
 
 ## Resources
 
