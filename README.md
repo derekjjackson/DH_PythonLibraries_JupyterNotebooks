@@ -26,10 +26,12 @@ To use the notebooks in a browser go to [![MyBinder](https://mybinder.org/badge.
   * ***break***
  
   <hr/>
+  
 4. Machine Learning and Text
   * ***break***
   
   <hr/>
+  
 5. Dive in and Questions
 
 ## Notebooks on github
