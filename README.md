@@ -16,14 +16,17 @@ To use the notebooks in a browser go to [![MyBinder](https://mybinder.org/badge.
   * Jupyter Notebooks
   * Python
   * NLP/NLTK
-{break}
+  ***break***
+  <hr/>
 3. The NLTK Book
   * Chapter 1 (book module)
   * Chapter 2 (corpora module)
   * Chapter 3 (raw text)
-{break}
+ ***break***
+  <hr/>
 4. Machine Learning and Text
-{break}
+ ***break***
+  <hr/>
 5. Dive in and Questions
 
 ## Notebooks on github
