@@ -54,7 +54,7 @@ To use the notebooks in a browser go to [![MyBinder](https://mybinder.org/badge.
 * [Webscraping to get a corpus](https://github.com/derekjjackson/DH_PythonLibraries_JupyterNotebooks/blob/master/Collecting%20a%20corpus%20from%20the%20web%20(wordcloud%20and%20word2vec).ipynb)
 * [Machine Learning Overview](https://github.com/derekjjackson/DH_PythonLibraries_JupyterNotebooks/blob/master/Overview%20of%20Machine%20Learning%2C%20Data%20Science%2C%20and%20Python%20Libraries.ipynb)
 * [Machine Learning Example with Regression](https://github.com/derekjjackson/DH_PythonLibraries_JupyterNotebooks/blob/master/Machine%20Learning%20Process%20Overview_Regression.ipynb)
-* [Text Classification (Unsueprvised Learning)](https://github.com/derekjjackson/DH_PythonLibraries_JupyterNotebooks/blob/master/Text%20Classification.ipynb)
+* [Text Classification (Unsupervised Learning)](https://github.com/derekjjackson/DH_PythonLibraries_JupyterNotebooks/blob/master/Text%20Classification.ipynb)
 ## Resources
 
 ## Resources
