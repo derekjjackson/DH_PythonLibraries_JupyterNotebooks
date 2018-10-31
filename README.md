@@ -31,6 +31,9 @@ To use the notebooks in a browser go to [![MyBinder](https://mybinder.org/badge.
   <hr/>
   
 4. Machine Learning and Text
+ * Simple Webscraping to get a corpus
+ * Machine Learning intro
+ *
 
 ***break***
   
