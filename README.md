@@ -7,6 +7,8 @@ Files and resources for using Data Science, Python, and Jupyter Notebooks in the
 
 To use the notebooks in a browser go to [![MyBinder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/derekjjackson/DH_PythonLibraries_JupyterNotebooks.git/master)
 
+Derek's e-mail: derek.jackson@hbsp.harvard.edu
+
 ## Agenda
 1. Intro
   * Ice breaking
@@ -55,7 +57,7 @@ To use the notebooks in a browser go to [![MyBinder](https://mybinder.org/badge.
 * [Machine Learning Overview](https://github.com/derekjjackson/DH_PythonLibraries_JupyterNotebooks/blob/master/Overview%20of%20Machine%20Learning%2C%20Data%20Science%2C%20and%20Python%20Libraries.ipynb)
 * [Machine Learning Example with Regression](https://github.com/derekjjackson/DH_PythonLibraries_JupyterNotebooks/blob/master/Machine%20Learning%20Process%20Overview_Regression.ipynb)
 * [Text Classification (Unsupervised Learning)](https://github.com/derekjjackson/DH_PythonLibraries_JupyterNotebooks/blob/master/Text%20Classification.ipynb)
-## Resources
+
 
 ## Resources
 
